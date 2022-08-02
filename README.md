@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
- :computer:  Technologies: <strong>HTML5, CSS3, JavaScript ES6, ReactJS and Python.</strong>
+ :computer:  Technologies: <strong>HTML5, CSS3, JavaScript ES6, TypeScript, ReactJS and Python.</strong>
 </p>
 
 <p align="left">
@@ -13,7 +13,7 @@
 </p>
 
 <p align="left">
- :books: Studying now: <strong>ReactJS</strong>
+ :books: Studying now: <strong>TypeScript</strong>
 </p>
 
 <br>
