@@ -5,15 +5,15 @@
 </p>
 
 <p align="left">
- :computer:  Technologies: <strong>HTML5, CSS3, JavaScript ES6, TypeScript, ReactJS and Python.</strong>
+ :computer:  Technologies: <strong>HTML5, CSS3, JavaScript ES6, TypeScript, ReactJS, Python AND Java.</strong>
 </p>
 
 <p align="left">
-  💼 Tools: <strong>VSCode, Canva, Photoshop, Figma, Git e GitHub</strong>
+  💼 Tools: <strong>VSCode, Eclipse, Canva, Photoshop, Figma, Git e GitHub</strong>
 </p>
 
 <p align="left">
- :books: Studying now: <strong>TypeScript</strong>
+ :books: Studying now: <strong>Java</strong>
 </p>
 
 <br>
