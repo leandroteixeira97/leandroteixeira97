@@ -1,15 +1,15 @@
 <img src="./img/laptop-coffee.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
 <p align="left"> 
-  Hello, there! I'm Leandro and since I was a boy I have been passionate about technology in general. I started in the programming world by studying front-end technologies, but one day I want to become a full-stack developer. Currently I'm studying <strong>Systems Analysis and Development</strong> at the Faculty of Technology of São José dos Campos - SP | Brazil. <br><br>
+  Hello, there! I'm Leandro and since I was a boy I have been passionate about technology in general. I started in the programming world by studying front-end technologies, but one day I want to become a full-stack developer. Currently I'm studying <strong>Computer Science</strong> at the Universidade Paulista - UNIP | Brazil. <br><br>
 </p>
 
 <p align="left">
- :computer:  Technologies: <strong>HTML5, CSS3, JavaScript ES6, TypeScript, ReactJS, Python AND Java.</strong>
+ :computer:  Technologies: <strong>HTML5, CSS3, JavaScript, TypeScript, ReactJS, Java, Springboot and PostgreSQL.</strong>
 </p>
 
 <p align="left">
-  💼 Tools: <strong>VSCode, Eclipse, Canva, Photoshop, Figma, Git e GitHub</strong>
+  💼 Tools: <strong>VSCode, IntelliJ, Canva, Photoshop, Figma, Git e GitHub</strong>
 </p>
 
 <p align="left">
