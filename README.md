@@ -1,7 +1,11 @@
 <img src="./img/laptop-coffee.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
 <p align="left"> 
-  Hello, there! I'm Leandro and since I was a boy I have been passionate about technology in general. I started in the programming world by studying front-end technologies, but one day I want to become a full-stack developer. Currently I'm studying <strong>Computer Science</strong> at the Universidade Paulista - UNIP | Brazil. <br><br>
+  Hello there! I'm Leandro and since I was a kid I've been passionate about technology in general. I started in the world of programming studying front-end technologies, and currently I work as a Jr Full-Stack Developer Analyst at Geopixel - Leader in Geointelligence for Cities in Brazil. I'm currently studying Computer Science at Universidade Paulista - UNIP | Brazil. <br><br>
+</p>
+
+<p align="left">
+  I have experience in web development, using technologies such as HTML, CSS, JavaScript/TypeScript, React and tools for code versioning, such as Git and GitHub. I also have knowledge in development using Java, with emphasis on using the Spring framework. In addition, I have knowledge in relational and non-relational databases, especially using PostgreSQL.
 </p>
 
 <p align="left">
